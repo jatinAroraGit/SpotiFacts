@@ -1,7 +1,7 @@
-![](media/image1.png){width="1.5327865266841645in"
+![](media/spotifactsLogo.png){width="1.5327865266841645in"
 height="1.5327865266841645in"}
 
-**SpotiFacts**
+***SpotiFacts***
 
 SpotiFacts is a react web app that uses Spotify API to give the app
 users and enhanced and in-depth overview of their profile and listening
