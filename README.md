@@ -1,5 +1,5 @@
 
-<h2>SpotiFacts (https://spotifacts.vercel.app/) </h2> 
+<h2>SpotiFacts (https://spotifacts.netlify.app) </h2> 
 
 
 <p align="center">
